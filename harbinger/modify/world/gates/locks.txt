@@ -1,0 +1,3 @@
+[MERGE]
+GATE_SL_EZ : 2 : 1
+[ENDMERGE]
