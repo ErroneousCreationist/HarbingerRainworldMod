@@ -1,0 +1,35 @@
+{
+  "id": "Harbinger_Outro",
+  "slideshow_folder": "slugbase/slideshows/harbinger_outro",
+  "next_process": "Credits",
+  "scenes": [
+    {
+      "name": "scene1",
+      "fade_in_start": 0,
+      "fade_out_start": 6.0,
+      "images": [
+        {"name": "scene1_bg", "pos": [0,0], "depth": 6.0, "shader": "Basic"}
+      ]
+    },
+    {
+      "name": "scene2",
+      "fade_in_start": 8.5,
+      "fade_in_end": 10,
+      "fade_out_start": 14,
+      "images": [
+        {"name": "scene2_bg", "pos": [0,0], "depth": 6, "shader": "Basic"},
+        {"name": "scene2_cat", "pos": [301,59], "depth": 1, "shader": "LightEdges"}
+      ]
+    },
+    {
+      "name": "scene3",
+      "fade_in_start": 18,
+      "fade_in_end": 21,
+      "fade_out_start": 28,
+      "images": [
+        {"name": "scene3_bg", "pos": [0,0], "depth": 0, "shader": "Basic"},
+        {"name": "scene3_cat", "pos": [376,0], "depth": 0, "shader": "LightEdges"}
+      ]
+    }
+  ]
+}

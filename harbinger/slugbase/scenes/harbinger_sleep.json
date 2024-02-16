@@ -1,0 +1,11 @@
+{
+  "id": "Harbinger_Sleep",
+  "scene_folder": "slugbase/scenes/harbinger_sleep/",
+  "images": [
+    {"name": "sleepscreen","pos": [  0,   0], "depth": -1.0, "flatmode": true}
+
+  ],
+  "idle_depths": [2.3, 2.9],
+  "select_menu_pos": [-10, 100],
+  "slugcat_depth": 2.8
+}

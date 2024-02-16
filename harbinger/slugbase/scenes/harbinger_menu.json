@@ -1,0 +1,10 @@
+{
+  "id": "Harbinger_Menu",
+  "scene_folder": "slugbase/scenes/harbinger_menu/",
+  "images": [
+    {"name": "harbselect", "pos": [0,0], "depth": 1.5, "flatmode":true, "shader":"Basic"},
+    {"name": "harbselectnotflat", "pos": [0, 0], "depth": 2.3},
+    {"name": "harbselect", "pos": [0, 0], "depth": -1}
+  ],
+  "idle_depths": [1.8, 2.9]
+}

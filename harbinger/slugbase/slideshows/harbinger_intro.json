@@ -1,0 +1,47 @@
+{
+  "id": "Harbinger_Intro",
+  "slideshow_folder": "slugbase/slideshows/harbinger_intro",
+  "next_process": "Game",
+  "scenes": [
+    {
+      "name": "scene1",
+      "fade_in_start": 0,
+      "fade_in_end": 1,
+      "fade_out_start": 7.1,
+      "images": [
+        {"name": "scene1", "pos": [0,0],"shader":"Normal"}
+      ],
+      "camera_path":[[0,0,0],[0,0,-0.5],[0,0,0.4],[0,0,0.1]]
+    },
+    {
+      "name": "scene2",
+      "fade_in_start": 8,
+      "fade_in_end": 9,
+      "fade_out_start": 12,
+      "images": [
+        {"name": "scene2", "pos": [0,0],"shader":"Normal"}
+      ],
+      "camera_path":[[0,0,0],[0,0,-0.7],[0,0,0.2]]
+    },
+    {
+      "name": "scene3",
+      "fade_in_start": 14,
+      "fade_in_end": 15,
+      "fade_out_start": 20,
+      "images": [
+        {"name": "scene3", "pos": [0,0],"shader":"Normal"}
+      ],
+      "camera_path":[[0,0,-0.9],[0,0,0.5],[0,0,0]]
+    },
+    {
+      "name": "scene4",
+      "fade_in_start": 21,
+      "fade_in_end": 22,
+      "fade_out_start": 30,
+      "images": [
+        {"name": "scene4", "pos": [-100,-30],"shader":"Normal"}
+      ],
+      "camera_path":[[0,-200,1],[0,100,-0.1]]
+    }
+  ]
+}

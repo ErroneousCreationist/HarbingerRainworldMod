@@ -1,0 +1,12 @@
+{
+    "id": "erroneous.harbinger",
+    "name": "The Harbinger (WIP)",
+    "version": "0.1.0",
+    "authors": "Erroneous",
+    "description": "Adds a new work in progress campaign to the game. You play as the Harbinger, a strange slugcat sent on a very special mission.\n You start in the Eastern Boundary, a distant, abandoned urban area infested with worm grass and centipedes. \n The mod is somewhat close to being done, the slugcat itself is pretty done, art is missing a few things, region isn't finished, campaign and endings also aren't done. Expect more updates and have fun!",
+    "youtube_trailer_id": "",
+    "requirements": ["slime-cubed.slugbase"],
+    "requirements_names": ["SlugBase"],
+    "tags": ["Slugcat"],
+    "checksum_override_version": false
+}

@@ -1,0 +1,85 @@
+{
+    "id": "Erroneous.Harbinger",
+    "name": "The Harbinger",
+    "description": "A strange slugcat hailing from an unimaginable distance away. <LINE> Carries a... warning.",
+    "features": {
+        "world_state": [ "Red" ],
+        "color": "170e5c",
+        "custom_colors": [
+            {
+                "name": "Body",
+                "story": "170e5c"
+            },
+            {
+                "name": "Eyes",
+                "story": "FFFFFF"
+            }
+        ],
+        "weight": [ 0.9, 0.7 ],
+        "loudness": [ 1.2, 0.6 ],
+        "crouch_stealth": [ 0.8, 1.5 ],
+        "walk_speed": [ 1 ],
+        "climb_speed": [ 1 ],
+        "tunnel_speed": [ 1 ],
+        "throw_skill": [ 0, 0 ],
+        "alignments": {
+            "Lizards": {
+                "like": 1.0,
+                "strength": 1.0
+            },
+            "Scavengers": {
+                "like": -0.1,
+                "strength": 1.0
+            }
+        },
+        "diet": {
+            "base": "Red",
+            "corpses": 1,
+            "plants": 0.25,
+            "overrides": {
+                "Fly": 0.5,
+                "SmallCentipede": 1.5,
+                "Centipede": 2.0,
+                "Centiwing": 2.0,
+                "RedCentipede": 2.0,
+                "DropBug": 2.0,
+                "Eggbug": 2.0,
+                "BigNeedleWorm": 2.0,
+                "BigSpider": 2.0,
+                "SpitterSpider": 2.0,
+                "CicadaA": 2.0,
+                "CicadaB": 2.0,
+                "GreenLizard": 0.5,
+                "PinkLizard": 0.5,
+                "BlueLizard": 0.5,
+                "WhiteLizard": 0.5,
+                "YellowLizard": 0.5,
+                "BlackLizard": 0.5,
+                "Salamander": 0.5,
+                "RedLizard": 0.5,
+                "CyanLizard": 0.5,
+                "OrangeLizard": 0.5
+            }
+        },
+        "back_spear": true,
+        "karma": 1,
+        "karma_cap": 4,
+        "timeline_before": "Spear, Artificer, Red, Gourmand, White, Yellow, Rivulet, Saint, Inv",
+        "expedition_description": "This Slugcat has a warning to deliver...",
+        "intro_slideshow": "Harbinger_Intro",
+        "outro_slideshow": "Harbinger_Outro",
+        "sleep_scene": "Harbinger_Sleep",
+        "select_menu_scene_ascended": "Harbinger_Menu_Ascended",
+        "select_menu_scene": "Harbinger_Menu",
+        "food_min": 7,
+        "food_max": 11,
+        "the_mark": true,
+        "Harbinger/dmgbonus_mush": 0.75,
+        "Harbinger/inediblemushrooms": true,
+        "Harbinger/mushroomtime": 320,
+        "Harbinger/dischargetime": 1.0,
+        "Harbinger/sparkframechance": 0.4,
+        "Harbinger/pebbsidialogue": true,
+        "Harbinger/spearstunmult" : 3200
+    }
+}
