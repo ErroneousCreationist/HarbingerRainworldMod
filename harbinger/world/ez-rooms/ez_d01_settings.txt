@@ -1,0 +1,3 @@
+Template: EZ_SettingsTemplate_Sewer
+Effects: Darkness-0.8695652-20-20, 
+PlacedObjects: BubbleGrass><972.6958><674.0405><0~0~1~2, BubbleGrass><1021.335><689.363><0~0~1~2, 

@@ -1,0 +1,70 @@
+ROOMS
+
+EZ_harbstart : EZ_B01
+GATE_SL_EZ : DISCONNECTED, DISCONNECTED, EZ_C10 : GATE
+EZ_B02 : EZ_C07, EZ_B01
+EZ_C01 : EZ_C03, EZ_A01, EZ_C07
+EZ_A01 : EZ_C01, EZ_E01
+EZ_E01 : EZ_A01, EZ_B03, EZ_SHELTER1
+EZ_C03 : EZ_C01, EZ_B04
+EZ_A02 : EZ_A04, EZ_A03
+EZ_A03 : EZ_A02
+EZ_A04 : EZ_D01, EZ_D03, EZ_A02
+EZ_B03 : EZ_E01, EZ_C04 : SWARMROOM
+EZ_C02 : EZ_D02, EZ_C04, EZ_D01
+EZ_C04 : EZ_B03, EZ_C02, DISCONNECTED
+EZ_D01 : EZ_D02, EZ_C02, EZ_A04
+EZ_D02 : EZ_S02, DISCONNECTED, EZ_C02, EZ_B05, EZ_D01
+EZ_C05 : DISCONNECTED, EZ_C06, EZ_B04 : SCAVOUTPOST
+EZ_C07 : EZ_B02, EZ_C01
+EZ_B01 : EZ_B02, EZ_harbstart
+EZ_SHELTER1 : EZ_E01 : SHELTER
+EZ_C06 : EZ_C08, EZ_C05
+EZ_C08 : EZ_C06, EZ_C10
+EZ_B04 : EZ_C05, EZ_C03, EZ_SO3 : SWARMROOM
+EZ_SO3 : EZ_B04 : SHELTER
+EZ_C10 : GATE_SL_EZ, EZ_C08, EZ_E02
+EZ_E02 : EZ_C10, EZ_B05
+EZ_B05 : EZ_D02, EZ_E02, EZ_ST1
+EZ_ST1 : EZ_B05
+EZ_D03 : EZ_A04, EZ_C12, EZ_A05
+EZ_A05 : EZ_D03
+EZ_S02 : EZ_D02 : SHELTER
+EZ_C12 : EZ_D03, DISCONNECTED
+END ROOMS
+CREATURES
+
+EZ_harbstart : 3-SmallCentipede, 2-SmallCentipede, 1-SmallCentipede
+OFFSCREEN : 0-Vulture-0.5, 0-Scavenger-4, 0-BigEel
+EZ_B02 : 4-Centiwing, 3-SmallCentipede, 2-Centipede
+EZ_C01 : 3-Centiwing, 4-Centiwing
+EZ_A01 : 2-RedCentipede
+EZ_C03 : 5-Centiwing
+(Red,Artificer,Spear)EZ_C03 : 2-CyanLizard-2
+LINEAGE : EZ_C03 : 3 : Centipede-{8}-0.1, RedCentipede-0
+EZ_C02 : 3-RedCentipede
+EZ_C05 : 5-WhiteLizard, 4-Centiwing
+(Red,Gourmand,Artificer,Spear)EZ_C05 : 3-CyanLizard-2
+EZ_C06 : 2-Centiwing, 3-Centiwing, 7-CyanLizard, 5-YellowLizard-3, 4-Centiwing, 6-Centipede
+EZ_C04 : 3-DropBug, 4-Centipede-{0.9}, 5-Centipede-{0.1}, 6-SmallCentipede, 7-SmallCentipede, 8-Mimic-{20}, 9-DropBug, 10-Centipede-{0.5}, 11-SeaLeech, 11-SeaLeech, 12-SeaLeech, 14-SeaLeech, 13-SeaLeech, 13-SeaLeech, 14-SeaLeech, 14-SeaLeech
+EZ_D01 : 3-Centipede-{0.4}. 4-SmallCentipede
+EZ_D02 : 5-SmallCentipede
+EZ_E01 : 4-DropBug-{TentacleImmune}, 5-DropBug-{TentacleImmune}, 6-DropBug-{TentacleImmune}, 7-Centipede-{0.5}-{TentacleImmune}, 9-TentaclePlant-{TentacleImmune}, 10-Mimic-{24}, 11-DropBug-{TentacleImmune}, 12-Dropbug-{TentacleImmune}, 13-Centipede-{0.8}-{TentacleImmune}, 14-Centipede-{0.6}-{TentacleImmune}, 3-CyanLizard
+LINEAGE : EZ_E01 : 8 : GreenLizard-{TentacleImmune}-1, Red-0
+EZ_C07 : 5-Centipede, 3-Centipede, 2-SmallCentipede, 4-SmallCentipede, 7-GreenLizard, 6-Centipede
+EZ_B01 : 2-SmallCentipede, 2-SmallCentipede, 4-SmallCentipede
+LINEAGE : EZ_B04 : 8 : SmallCentipede-0.8, Centipede-{7}-0.3, RedCentipede-0
+EZ_B04 : 7-SmallCentipede, 5-SmallCentipede
+LINEAGE : EZ_B04 : 3 : EggBug-0.8, DropBug-0
+EZ_C08 : 9-BlueLizard, 7-YellowLizard-3, 4-Centiwing, 2-Centiwing, 5-Centipede, 6-SmallCentipede, 8-SmallCentipede, 3-SmallCentipede
+LINEAGE : EZ_D01 : 4 : EggBug-0.9, DropBug-0
+EZ_C10 : 6-YellowLizard, 6-YellowLizard, 6-YellowLizard, 5-EggBug, 3-Centiwing, 4-Centiwing, 9-DropBug
+LINEAGE : EZ_C10 : 10 : Centipede-{0.8}-0.4, RedCenti-0
+(Red,Artificer,Spear)EZ_C10 : 8-CyanLizard
+EZ_E02 : 6-Centipede, 4-SmallCentipede, 4-SmallCentipede, 4-SmallCentipede, 2-Centiwing, 3-Centiwing, 5-CyanLizard, 8-Centipede, 10-Centipede, 9-TentaclePlant
+LINEAGE : EZ_E02 : 7 : Centipede-0.6, RedCenti-0
+EZ_D03 : 6-Leech-10
+EZ_B05 : 3-CyanLizard, 4-CyanLizard, 5-Centipede, 6-Centiwing, 7-Centiwing, 8-BlueLizard, 10-SmallCentipede, 11-SmallCentipede, 10-PoleMimic, 11-PoleMimic
+LINEAGE : EZ_B05 : 9 : Centipede-0.6, RedCenti-0
+EZ_C12 : 4-PoleMimic-{8}, 3-SeaLeech, 2-JetFish-2
+END CREATURES

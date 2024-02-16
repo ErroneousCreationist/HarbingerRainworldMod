@@ -1,0 +1,2 @@
+Template: EZ_SettingsTemplate_Sewer
+PlacedObjects: ReliableSpear><1720.763><364.1332><, ReliableSpear><1908.397><366.8105><, ReliableSpear><2075.894><344.4967><, ReliableSpear><1988.835><344.8873><, ReliableSpear><597.2379><365.1958><, ReliableSpear><325.4484><367.2608><, ReliableSpear><506.7537><416.7467><, ReliableSpear><866.9372><346.3401><, 

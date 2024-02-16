@@ -1,0 +1,3 @@
+Clouds: 0.736294
+Palette: 6
+PlacedObjects: PlayerPushback><3129.445><535.454><0~100, 

@@ -1,0 +1,6 @@
+Template: EZ_SettingsTemplate_Sewer
+Palette: 6
+Effects: SunBlock-1-20-20, Darkness-0.7065217-30-30, 
+PlacedObjects: SeedCob><164.2773><291.8019><0~0~7~10, DeadSeedCob><115.3119><257.4321><, DeadSeedCob><271.1263><292.0949><, DangleFruit><444.3055><412.0467><0~0~2~3, DangleFruit><725.6756><399.1542><0~0~2~3, DangleFruit><564.3149><420.0758><0~0~2~3, KarmaFlower><130.0055><171.4499><0~0~5~7, Mushroom><1078.195><190.7055><0~0~2~3, Mushroom><1104.867><184.662><0~0~2~3, 
+AmbientSounds: OMNI><am_ind-deephum.ogg><763.0717><275.4095><0.5><1, OMNI><am_sub-cavetone.ogg><741.5129><215.3004><0.5><1, 
+WetTerrain: OFF

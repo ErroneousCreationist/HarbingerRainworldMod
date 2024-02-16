@@ -1,0 +1,8 @@
+Template: NONE
+Clouds: 0.7717391
+Palette: 6
+PlacedObjects: DeadSeedCob><253.0778><184.6017><, DeadSeedCob><331.3138><206.177><, SeedCob><283.6873><219.68><0~0~7~10, ReliableSpear><324.8567><148.6692><, ReliableSpear><522.5889><139.8686><, PlayerPushback><12.80646><399.0329><77.90469~-1.333344, PlayerPushback><2138.557><464.1916><0~100, 
+AmbientSounds: OMNI><am_env-outside.ogg><755.6566><444.4268><0.5><1, OMNI><am_env-wintertrees.ogg><763.45><356.4971><0.5><1, OMNI><am_env-cricketswnd.ogg><742.9139><516.0695><0.3478261><1, OMNI><am_rain-quietthunder.ogg><769.9208><279.3541><0.5><1, 
+BackgroundOffset: 0,500
+BackgroundType: atc_oe_treetopview
+RoomSpecificScriptActive: ON

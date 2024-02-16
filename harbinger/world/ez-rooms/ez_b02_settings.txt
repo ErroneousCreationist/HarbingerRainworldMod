@@ -1,0 +1,8 @@
+Template: NONE
+Clouds: 0.5760869
+Palette: 6
+Effects: Fog-0.8260869-20-20, 
+PlacedObjects: ReliableSpear><543.4109><600.6791><, ReliableSpear><764.1915><610.3076><, PlayerPushback><-27.263><415.5504><223~37, SlimeMold><590.6251><602.1562><0~0~2~3, SlimeMold><576.8452><620.3734><0~0~2~3, SlimeMold><571.9486><594.2733><0~0~2~3, SeedCob><1624.476><429.3015><0~0~7~10, DeadSeedCob><1525.186><402.5736><, DeadSeedCob><1684.689><392.8152><, DeadVultureGrub><2002.923><394.8152><0~0~7~10, ReliableSpear><1619.706><316.9451><, LanternOnStick><1854.496><381.05><48~-84, LanternOnStick><1945.713><426.5534><-25~-111, LanternOnStick><1808.552><383.219><62~-86, DataPearl><262.718><278.1974><0~0~0~0~Misc2~0, FirecrackerPlant><216.3073><257.4467><0~0~2~3, SlimeMold><537.159><586.8219><-30~168~2~3, PlayerPushback><2125.357><416.3962><-131~-10, ReliableSpear><206.6741><368.6516><, ReliableSpear><222.0236><299.8014><, ReliableSpear><317.9492><297.7325><, 
+AmbientSounds: OMNI><am_ind-12thfloor.ogg><749.5551><324.2054><0.5><1, OMNI><am_rain-quietthunder.ogg><717.0395><457.446><0.5><1, OMNI><am_ind-utility01.ogg><774.431><390.9149><0.2608696><1, 
+BackgroundOffset: 0,500
+BackgroundType: atc_oe_treetopview

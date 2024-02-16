@@ -1,0 +1,2 @@
+Template: EZ_SettingsTemplate_Sewer
+Effects: Darkness-0.9239131-20-20, 

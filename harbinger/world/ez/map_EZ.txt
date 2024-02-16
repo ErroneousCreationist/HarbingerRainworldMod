@@ -1,0 +1,64 @@
+EZ_harbstart: 429><-30><331.6><54.8><0><NONE
+GATE_SL_EZ: -3396><-30><-201.4><66.8><0><Eastern Boundary
+EZ_B02: -93><-30><-90.4><64.8><0><Eastern Boundary
+EZ_C01: -534><-30><0><-70><0><Eastern Boundary
+EZ_A01: -777><-135><0><-70><0><Bygone Sewers
+EZ_E01: -1077><-255><0><-230><0><Bygone Sewers
+EZ_C03: -975><-30><0><-70><0><Eastern Boundary
+EZ_A02: -2358><-786><0><-70><0><Bygone Sewers
+EZ_A03: -2358><-891><0><-70><0><Bygone Sewers
+EZ_A04: -2502><-744><0><-70><0><Bygone Sewers
+EZ_B03: -1455><-414><0><-70><0><Bygone Sewers
+EZ_C02: -2283><-414><0><-70><0><Bygone Sewers
+EZ_C04: -1833><-414><0><-70><0><Bygone Sewers
+EZ_D01: -2451><-579><0><-150><0><Bygone Sewers
+EZ_D02: -2814><-414><0><-70><0><Bygone Sewers
+EZ_C05: -1728><-36><0><-70><0><Eastern Boundary
+EZ_C07: -234><-195><0><-150><0><Eastern Boundary
+EZ_B01: 207><-30><0><-70><0><Eastern Boundary
+EZ_SHELTER1: -1260><-478.5><0><-70><0><
+EZ_C06: -2184><-36><0><-70><0><Eastern Boundary
+EZ_C08: -2640><-36><0><-70><0><Eastern Boundary
+EZ_B04: -1353><-105><0><-70><0><Eastern Boundary
+EZ_SO3: -1368><-207><0><-70><0><Eastern Boundary
+OffScreenDen_EZ: -1743><135><-160.4><-240.2><0><
+EZ_C10: -3096><-36><0><-70><0><Eastern Boundary
+EZ_E02: -3393><-378><0><-390><0><Bygone Sewers
+EZ_B05: -3219><-558><0><-150><0><Bygone Sewers
+EZ_ST1: -3240><-723><0><-70><0><Bygone Sewers
+EZ_D03: -2721><-681><0><-150><0><Bygone Sewers
+EZ_A05: -2706><-846><0><-70><0><Bygone Sewers
+EZ_S02: -2964><-306><0><-70><0><Bygone Sewers
+EZ_C12: -2943><-897><0><-230><0><Bygone Sewers
+Connection: EZ_harbstart,EZ_B01,2,13,98,14,2,0
+Connection: GATE_SL_EZ,EZ_C10,36,5,5,27,3,1
+Connection: EZ_B02,EZ_C07,33,27,80,70,3,1
+Connection: EZ_B02,EZ_B01,92,13,10,15,3,2
+Connection: EZ_C01,EZ_C03,2,12,143,9,2,0
+Connection: EZ_C01,EZ_A01,8,9,44,9,3,0
+Connection: EZ_C01,EZ_C07,135,8,5,11,3,2
+Connection: EZ_A01,EZ_E01,3,29,142,109,2,1
+Connection: EZ_E01,EZ_B03,1,8,97,20,2,0
+Connection: EZ_E01,EZ_SHELTER1,11,5,24,18,3,1
+Connection: EZ_C03,EZ_B04,9,16,81,23,3,1
+Connection: EZ_A02,EZ_A04,6,28,45,12,2,3
+Connection: EZ_A02,EZ_A03,23,5,23,29,3,1
+Connection: EZ_A04,EZ_D01,22,27,31,6,1,3
+Connection: EZ_A04,EZ_D03,8,15,97,3,2,0
+Connection: EZ_B03,EZ_C04,9,12,147,17,2,0
+Connection: EZ_C02,EZ_D02,1,14,194,11,2,0
+Connection: EZ_C02,EZ_C04,144,12,1,11,0,2
+Connection: EZ_C02,EZ_D01,70,3,98,24,3,0
+Connection: EZ_D01,EZ_D02,53,58,52,12,1,3
+Connection: EZ_D02,EZ_S02,48,18,20,3,1,3
+Connection: EZ_D02,EZ_B05,4,8,42,68,2,0
+Connection: EZ_C05,EZ_C06,8,13,140,18,2,0
+Connection: EZ_C05,EZ_B04,132,16,14,27,3,1
+Connection: EZ_C06,EZ_C08,7,29,139,27,2,1
+Connection: EZ_C08,EZ_C10,4,26,120,24,1,1
+Connection: EZ_B04,EZ_SO3,46,10,24,24,3,1
+Connection: EZ_C10,EZ_E02,45,4,38,186,3,0
+Connection: EZ_E02,EZ_B05,42,16,5,7,0,2
+Connection: EZ_B05,EZ_ST1,16,4,23,31,3,1
+Connection: EZ_D03,EZ_C12,6,10,35,101,2,0
+Connection: EZ_D03,EZ_A05,55,47,21,32,3,1

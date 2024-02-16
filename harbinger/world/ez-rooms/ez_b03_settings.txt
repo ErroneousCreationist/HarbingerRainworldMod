@@ -1,0 +1,2 @@
+Template: EZ_SettingsTemplate_Sewer
+PlacedObjects: CustomDecal><1488.406><356.1246><-10~155~160~150~139~6~253~-43~0~1~0~hoko can~0.5~0~0.5~0~0.5~0~0.5~0, InsectGroup><1088.953><279.3055><199~334~0~0~RockFlea~0.5, InsectGroup><1724.174><313.4014><-224~145~0~0~Beetle~0.5, LanternOnStick><1019.324><247.095><-34~-135, LanternOnStick><1106.665><186.8188><30~-106, LanternOnStick><1062.712><194.6963><-18~-113, 

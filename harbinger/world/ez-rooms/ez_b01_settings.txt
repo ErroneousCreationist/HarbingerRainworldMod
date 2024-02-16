@@ -1,0 +1,7 @@
+Clouds: 0.9021739
+BkgDroneVolume: 0.202174
+Palette: 6
+Effects: Fog-0.5978261-20-20, 
+PlacedObjects: DeadSeedCob><405.1566><376.6256><, DeadSeedCob><475.353><342.3644><, ReliableSpear><374.9469><316.2852><, ReliableSpear><1101.021><291.5511><, Rainbow><-154.3854><519.8528><8~183~0~0~1,1,1,1,0.8152174,0.1499999, InsectGroup><434.3097><294.1884><0~100~0~0~RockFlea~0.5, PlayerPushback><-87.64478><484.92><0~100, PlayerPushback><2046.129><359.0667><-88.04297~-5.066666, 
+AmbientSounds: OMNI><AM_ENV-LightWind.ogg><750.4424><553.5546><0.5><1, OMNI><AM_ENV-CricketsWnd.ogg><751.3196><482.6875><0.5><1, 
+RoomSpecificScriptActive: ON

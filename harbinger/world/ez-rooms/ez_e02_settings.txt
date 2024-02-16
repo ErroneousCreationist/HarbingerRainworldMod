@@ -1,0 +1,4 @@
+Template: EZ_SettingsTemplate_Sewer
+DangerType: FloodAndRain
+Effects: Darkness-0.8913044-284-95, 
+PlacedObjects: LightBeam><265.8022><3196.78><-125~716~478~720~469~-41~-435~88~0.4~0~0~1~None~0~0, InsectGroup><504.3904><3772.142><0~100~0~0~RockFlea~0.6847826, InsectGroup><353.4375><3541.43><0~100~0~0~RockFlea~0.5, CustomDecal><275.5629><3668.929><-1~150~219~167~241~1~-421~-135~0.2607843~0.9565217~0~gibberish~0.09782609~0.4456522~0.25~0.1413043~0.09782609~0.7391304~0.2173913~0.1304348, 

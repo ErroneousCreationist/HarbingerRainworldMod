@@ -1,0 +1,7 @@
+
+Room Setting Templates: Surface, Sewer
+Subregion: Eastern Boundary
+Subregion: The Wreckage
+Subregion: Bygone Sewers
+Room_Attr: EZ_A01: RedCentipede-Stay,
+Room_Attr: EZ_C05: Scavenger-Stay,

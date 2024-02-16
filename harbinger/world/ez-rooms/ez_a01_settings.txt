@@ -1,0 +1,4 @@
+Template: EZ_SettingsTemplate_Sewer
+Palette: 6
+Effects: Darkness-0.7717391-20-20, SunBlock-1-333-126, 
+AmbientSounds: OMNI><am_ind-deephum.ogg><740.944><276.2013><0.3478261><1, OMNI><am_sub-cavetone.ogg><758.5674><196.1883><0.5><1, 

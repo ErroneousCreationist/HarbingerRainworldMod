@@ -1,0 +1,7 @@
+Clouds: 0.7391304
+Palette: 6
+Effects: Fog-0.5869565-20-20, 
+PlacedObjects: PlayerPushback><2858.656><221.2111><-103.5172~-2.400024, 
+AmbientSounds: OMNI><am_ind-12thfloor.ogg><737.1964><327.2123><0.5><1, OMNI><am_ind-utility01.ogg><755.5938><445.8749><0.2717391><1, OMNI><am_rain-quietthunder.ogg><732.1559><517.5735><0.4021739><1, 
+BackgroundOffset: 0,200
+BackgroundType: atc_oe_treetopview

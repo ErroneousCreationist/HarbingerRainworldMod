@@ -1,0 +1,2 @@
+Template: EZ_SettingsTemplate_Sewer
+PlacedObjects: KarmaFlower><776.2584><187.4978><0~0~5~7, DataPearl><819.6375><395.8466><0~0~0~0~Misc~0, 

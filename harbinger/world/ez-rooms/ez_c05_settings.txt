@@ -1,0 +1,5 @@
+Clouds: 0.9347826
+Palette: 6
+Effects: Fog-0.6630435-20-20, 
+PlacedObjects: ScavengerOutpost><1585.816><549.6726><0~100~0~0~0.5532117~98~84, ReliableSpear><1443.098><628.8704><, ReliableSpear><1722.9><536.0768><, ReliableSpear><1547.673><599.5654><, LanternOnStick><1875.051><580.9793><-34~-61, LanternOnStick><1733.42><596.3943><30~-76, LanternOnStick><1679.36><592.1067><-41~-71, DeadSeedCob><317.1508><339.8813><, DeadSeedCob><551.8242><330.5953><, SeedCob><397.7614><365.8003><0~0~7~10, 
+AmbientSounds: OMNI><am_ind-12thfloor.ogg><761.8179><324.8119><0.5><1, OMNI><am_rain-mehthunder.ogg><754.8774><439.6541><0.3913043><1, 

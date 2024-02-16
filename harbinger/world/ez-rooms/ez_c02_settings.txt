@@ -1,0 +1,8 @@
+Template: EZ_SettingsTemplate_Sewer
+DangerType: Flood
+CeilingDrips: 0.7065217
+Grime: 0.7717391
+WaterReflectionAlpha: 0.2065217
+Palette: 6
+Effects: Darkness-0.7065217-20-20, DarkenLights-0.8586956-30-30, DirtyWater-0.8804348-40-40, Flies-0.4021739-60-60, 
+AmbientSounds: OMNI><AM_IND-DeepHum.ogg><683.5951><305.3735><0.5><1, OMNI><AM_SUB-CaveTone.ogg><743.5507><252.2661><0.5><1, 

@@ -1,0 +1,2 @@
+Palette: 13
+Effects: Darkness-0.4130435-20-20, Fog-1-30-30, SunBlock-1-40-40, 
