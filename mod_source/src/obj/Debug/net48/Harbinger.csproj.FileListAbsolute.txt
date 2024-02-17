@@ -1,0 +1,9 @@
+C:\Users\Sam\Downloads\SlugTemplate-master\SlugTemplate-master\src\bin\Debug\net48\Harbinger.dll
+C:\Users\Sam\Downloads\SlugTemplate-master\SlugTemplate-master\src\bin\Debug\net48\Harbinger.pdb
+C:\Users\Sam\Downloads\SlugTemplate-master\SlugTemplate-master\src\obj\Debug\net48\Harbinger.csproj.AssemblyReference.cache
+C:\Users\Sam\Downloads\SlugTemplate-master\SlugTemplate-master\src\obj\Debug\net48\Harbinger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sam\Downloads\SlugTemplate-master\SlugTemplate-master\src\obj\Debug\net48\Harbinger.AssemblyInfoInputs.cache
+C:\Users\Sam\Downloads\SlugTemplate-master\SlugTemplate-master\src\obj\Debug\net48\Harbinger.AssemblyInfo.cs
+C:\Users\Sam\Downloads\SlugTemplate-master\SlugTemplate-master\src\obj\Debug\net48\Harbinger.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Downloads\SlugTemplate-master\SlugTemplate-master\src\obj\Debug\net48\Harbinger.dll
+C:\Users\Sam\Downloads\SlugTemplate-master\SlugTemplate-master\src\obj\Debug\net48\Harbinger.pdb
